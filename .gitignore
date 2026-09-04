@@ -1,0 +1,43 @@
+# Virtual environments
+pytorch_env/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Training artifacts
+runs/
+artifacts/
+*.pth
+*.pt
+*.onnx
+
+# Downloaded datasets
+data/
+datasets/
+
+# Leftover copy if a move was locked (OneDrive / Jupyter)
+/final_project/
+
+# Local copies / archives (not for GitHub)
+*.zip
+donttouch.ipynb
+first_project/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
