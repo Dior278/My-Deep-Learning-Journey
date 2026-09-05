@@ -33,7 +33,7 @@ datasets/
 # Local copies / archives (not for GitHub)
 *.zip
 donttouch.ipynb
-first_project/
+first_project/data
 
 # OS / editor
 .DS_Store
